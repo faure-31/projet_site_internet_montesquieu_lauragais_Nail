@@ -1,0 +1,3 @@
+# Site de démonstration : ne pas référencer
+User-agent: *
+Disallow: /
